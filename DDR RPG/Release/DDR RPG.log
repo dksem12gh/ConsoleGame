@@ -1,0 +1,52 @@
+﻿  DDR RPG.cpp
+  GameManager.cpp
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(152): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(155): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(155): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(158): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(158): warning C4244: '인수': 'const int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(162): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(164): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(177): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(179): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(182): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(184): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(191): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(193): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(196): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(198): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(204): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(206): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(208): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(210): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(214): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(216): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(218): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(220): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(224): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(226): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(229): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(232): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(234): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(236): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(238): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(276): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\gamemanager.cpp(308): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Item.cpp
+  Monster.cpp
+  Npc.cpp
+  Player.cpp
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.h(18): error C2061: 구문 오류: 식별자 'Player'
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.h(21): error C2061: 구문 오류: 식별자 'Player'
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.h(22): error C2061: 구문 오류: 식별자 'Player'
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\player.cpp(5): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\player.cpp(7): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\player.cpp(19): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shop.cpp
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.cpp(58): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.cpp(64): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\shop.cpp(171): warning C4244: '인수': 'int'에서 'const float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Sound.cpp
+  Util.cpp
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\util.cpp(8): warning C4244: '=': 'const float'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\dksem\downloads\ddr1 (2)\ddr rpg\ddr rpg\util.cpp(9): warning C4244: '=': 'const float'에서 'SHORT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
